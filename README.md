@@ -1,2 +1,6 @@
 # Virome_of_Manhattan
-  
+
+
+Viral respiratory infections are an important public health concern, due to their prevalence, transmissibility, and potential to cause serious disease. Disease severity is the product of several factors beyond the presence of the infectious agent, including specific host immune responses, host genetic makeup, and bacterial co-infections. To understand these interactions within natural infections, we designed a longitudinal cohort study actively surveilling respiratory viruses over the course of 19 months (2016 to 2018) in a diverse cohort in New York City. We published <a href=https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3002089>"Virome Data Explorer: A web resource to longitudinally explore respiratory viral infections, their interactions with other pathogens and host transcriptomic changes in over 100 people"</a>
+
+My portion included data management of samples, submission of anonymized data, and developed the website's visualizations (http://54.152.206.84:1234/). I utilized Node.js for the frontend and Django Python for the backend. An excerpt of the website's code can be found gene_expression_plot.js
